@@ -17,8 +17,7 @@ public class SuperCar {
         this.carcolor = carcolor;
         this.carenginesize = carenginesize;
         this.maxspeed = maxspeed;
-        this.countryoforigin =
-        countryoforigin;
+        this.countryoforigin = countryoforigin;
 
     }
 
